@@ -1,0 +1,83 @@
+/* Hoja principal */
+.cabecera, nav, main, .articulo, .pie {
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    margin: 15px auto;
+    padding: 24px;
+}
+.cabecera {
+    background-color: yellow;
+    
+}
+
+nav {
+    background-color: #f36d06;
+    float: left;
+    width: 320px;
+    padding-bottom: 179%;
+    margin-top: 0%;
+}
+
+main {
+    background-color: #91f2a1;
+    margin-left: 380px;
+    /*border-top: 100px;*/
+}
+
+.pie {
+    background-color: #eeb2fa;
+}
+
+/* Articulos */
+
+.articulo {
+    background-color: #53f7f5;
+    border-radius: 12px;
+    /*margin-left: 5%;
+    margin-right: 10%;*/
+    padding-bottom: 1%;
+    font-size: 20px;
+}
+
+.subCabecera, .tiempoCab, .titulo, .subFooter, .subArticulo, .input, .tiempoArt {
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin: 2%;
+}
+.subCabecera {
+    background-color: #efb2b2;
+    text-align: left;
+    padding-bottom: 1%;
+}
+
+.titulo {
+    background-color: #f8d8b8;
+    text-align: center;
+}
+
+.tiempoCab {
+    background-color: #53f7f5;
+    text-align: center;
+}
+
+.subFooter {
+    background-color: #ecba27;
+}
+.subArticulo {
+    background-color: #a2f98a;
+    margin-left: 15%;
+    padding-bottom: 01%;
+}
+
+.tiempoArt {
+    background-color: #efb2b2;
+    text-align: center;
+}
+
+.input {
+    background-color: yellow;
+}
